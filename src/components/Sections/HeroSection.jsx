@@ -4,6 +4,7 @@ import { FiGithub, FiLinkedin } from "react-icons/fi";
 import { useTheme } from "../../context/ThemeContext";
 import MyPhoto from "../../assets/My photo.jpg"; 
 import { containerVariants, itemVariants } from "../../utile/helper";
+import { SiLeetcode } from "react-icons/si";
 
 const HeroSection = () => {
   const { isDarkMode } = useTheme();
@@ -292,6 +293,7 @@ const HeroSection = () => {
                   { icon: FiGithub, href: "https://github.com/CodeRaajiv" },
                   { icon: FiLinkedin, href: "https://www.linkedin.com/in/raajivg" },
                   { icon: Mail, href: "mailto:raajivraajiv417@gmail.com" },
+                  { icon: SiLeetcode, href: "https://leetcode.com/u/8eYef0mdr4" },
                 ].map((social, index) => (
                   <motion.a
                     key={index}
