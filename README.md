@@ -1,12 +1,32 @@
-# React + Vite
+🚀 Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive portfolio website built with React, showcasing my projects, skills, and experience as a developer.
 
-Currently, two official plugins are available:
+🌐 Live Demo
+[View Live Portfolio](https://lnkd.in/ggiRPuR3)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Features
+- Smooth Animations - Powered by Framer Motion for fluid, engaging interactions
+- Dark/Light Mode - Toggle between themes with persistent preferences
+- Responsive Design - Fully optimized for mobile, tablet, and desktop
+- Project Showcase- Interactive cards displaying featured work
+- Smooth Scrolling - Seamless navigation between sections
+- Modern UI - Clean, minimalist design with attention to detail
 
-## Expanding the ESLint configuration
+🛠️ Built With
+- React - Frontend framework
+- Framer Motion - Animation library
+- Tailwind CSS - Utility-first styling
+- Lucide React - Icon library
+- Vite - Build tool
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📱 Sections
+- Home - Hero section with introduction
+- Skills - Technical skills and expertise
+- Projects - Featured work and case studies
+- About - Background and experience
+- Contact - Get in touch form and links
+
+📧 Contact
+Raajiv - raajivraajiv417@gmail.com
+Linkedin - https://lnkd.in/gUEGvXXE
