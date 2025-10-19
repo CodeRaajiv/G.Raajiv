@@ -169,8 +169,8 @@ const HeroSection = () => {
                 <motion.a
                   whileHover={{ y: -2 }}
                   whileTap={{ scale: 0.98 }}
-                  href="/Raajiv Resume.pdf"
-                  download="Raajiv Resume.pdf"
+                  href="/Raajiv_Developer_resume.pdf"
+                  download="Raajiv_Developer_resume.pdf"
                   className={`border px-8 py-3 rounded-full text-sm uppercase tracking-wider font-medium transition-all duration-300 bg-blue-800 text-neutral-200 ${
                     isDarkMode
                       ? "border-gray-700 hover:border-gray-600 text-gray-300"
@@ -274,8 +274,8 @@ const HeroSection = () => {
                 <motion.a
                   whileHover={{ y: -2 }}
                   whileTap={{ scale: 0.98 }}
-                  href="/Raajiv Resume.pdf"
-                  download="Raajiv Resume.pdf"
+                  href="/Raajiv_Developer_resume.pdf"
+                  download="Raajiv_Developer_resume.pdf"
                   className={`border ${
                     isDarkMode
                       ? "border-gray-700 hover:border-gray-600 text-gray-300"

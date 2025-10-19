@@ -13,7 +13,7 @@ const ProjectsSection = () => {
 
   return (
     <section
-      id="project"
+      id="Project"
       ref={sectionRef}
       className={`py-24 px-6 ${
         isDarkMode ? "bg-gray-950 text-white" : "bg-gray-50 text-gray-900"

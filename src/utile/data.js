@@ -61,6 +61,7 @@ export const SKILLS_CATEGORY = [
       { name: "MongoDB", level: 88, color: "bg-green-600" },
       { name: "Mongoose", level: 85, color: "bg-blue-700" },
       { name: "Firebase", level: 78, color: "bg-yellow-600" },
+       { name: "Postman", level: 80, color: "bg-orange-500" },
     ],
   },
   {
